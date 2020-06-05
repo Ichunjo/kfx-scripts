@@ -1,0 +1,2 @@
+https://ddl.kodoku-no-kawarini.moe/Karaok%C3%A9/%5BKnK%5D%20Kokkoku%20Opening%20-%20Flashback.mp4
+https://ddl.kodoku-no-kawarini.moe/Karaok%C3%A9/%5BKnK%5D%20Kokkoku%20Ending%20-%20Asayake%20to%20Nettaigyo%20%28%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%A8%E7%86%B1%E5%B8%AF%E9%AD%9A%29.mp4

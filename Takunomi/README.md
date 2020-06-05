@@ -1,0 +1,2 @@
+https://ddl.kodoku-no-kawarini.moe/Karaok%C3%A9/%5BKnK%5D%20Takunomi%20Ending-%20aventure%20bleu.mp4
+https://ddl.kodoku-no-kawarini.moe/Karaok%C3%A9/%5BKnK%5D%20Takunomi%20Opening-%20Stoic%20ni%20Detox%20%28%E3%82%B9%E3%83%88%E3%82%A4%E3%83%83%E3%82%AF%E3%81%AB%E3%83%87%E3%83%88%E3%83%83%E3%82%AF%E3%82%B9%29.mp4

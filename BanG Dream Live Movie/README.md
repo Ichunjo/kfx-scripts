@@ -1,0 +1,2 @@
+https://ddl.kodoku-no-kawarini.moe/Film/%5BYUKIN4%E2%81%8E%5D%20BanG%20Dream%21%20Film%20Live%20VOSTFR%20%5B1080p%20AAC%5D/%5BYUKIN4%E2%81%8E%5D%20BanG%20Dream%21%20Film%20Live%20VOSTFR%20%5B1080p%20AAC%5D.mkv
+https://nyaa.si/view/1248254

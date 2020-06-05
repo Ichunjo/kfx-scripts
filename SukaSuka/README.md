@@ -1,0 +1,2 @@
+https://ddl.kodoku-no-kawarini.moe/Karaok%C3%A9/%5BKnK%5D%20SukaSuka%20Ending%20-%20From%20%28%E3%83%95%E3%83%AD%E3%83%A0%29.mp4
+https://ddl.kodoku-no-kawarini.moe/Karaok%C3%A9/%5BKnK%5D%20SukaSuka%20Ending%20-%20Kinema%20%28%E3%82%AD%E3%83%8D%E3%83%9E%29.mp4

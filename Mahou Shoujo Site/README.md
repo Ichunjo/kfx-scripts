@@ -1,0 +1,1 @@
+https://ddl.kodoku-no-kawarini.moe/Karaok%C3%A9/%5BKnK%5D%20Mahou%20Shoujo%20Site%20Opening%20-%20Changing%20point.mp4

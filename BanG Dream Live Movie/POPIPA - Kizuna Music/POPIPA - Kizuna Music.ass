@@ -1,0 +1,160 @@
+﻿[Script Info]
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: POPIPA - Kizuna Music - Romaji,KG Set Fire to the Rain,90,&H00151D32,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,0,0,25,1
+Style: POPIPA - Kizuna Music - Trad,KG Set Fire to the Rain,90,&H00151D32,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0,0,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,POPIPA - Kizuna Music - Romaji,,0,0,0,,
+Dialogue: 0,1:00:29.33,1:00:34.36,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k10}{\k23}kyou{\k39}shi{\k20}tsu {\k31}no {\k29}ma{\k51}do {\k22}no {\k41}so{\k33}to {\k26}ha{\k21}sha{\k31}gu {\k29}ko{\k97}e
+Dialogue: 0,1:00:34.36,1:00:39.53,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k14}{\k18}ko{\k17}mo{\k32}re{\k18}bi {\k26}wa {\k38}ki{\k44}ra{\k34}ki{\k30}ra {\k34}fu{\k20}ri{\k19}so{\k39}so{\k31}i{\k103}de
+Dialogue: 0,1:00:39.53,1:00:44.41,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k9}{\k18}ma{\k14}i{\k27}ni{\k22}chi {\k26}ga {\k31}to{\k51}ku{\k29}be{\k33}tsu {\k33}da{\k32}t{\k22}ta {\k21}ba{\k33}sho {\k87}ni
+Dialogue: 0,1:00:44.52,1:00:48.24,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k14}{\k19}mi{\k15}n{\k62}na {\k20}ma{\k15}ta {\k13}a{\k47}tsu{\k34}ma{\k32}t{\k19}te{\k82}ta
+Dialogue: 0,1:00:48.24,1:00:54.58,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k25}{\k32}wa{\k51}ta{\k66}shi{\k54}ta{\k53}chi {\k89}ga{\k32} {\k22}tsu{\k16}na{\k21}ga{\k10}t{\k18}te{\k29}ru {\k16}i{\k100}mi
+Dialogue: 0,1:00:54.58,1:00:58.51,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k26}{\k20}ta{\k14}bu{\k90}n {\k29}guu{\k37}ze{\k19}n {\k40}ja{\k30}na{\k88}i
+Dialogue: 0,1:00:58.51,1:01:04.14,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k13}{\k20}da{\k14}t{\k31}te {\k18}o{\k47}to {\k19}wo {\k138}a{\k119}wa{\k98}se{\k22}ta{\k24}ra
+Dialogue: 0,1:01:04.14,1:01:07.07,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k17}{\k32}Ki{\k37}zu{\k32}na {\k65}Mu{\k51}{\k59}sic
+Dialogue: 0,1:01:04.14,1:01:07.07,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k183}{\k0}Ki{\k0}zu{\k0}na {\k0}M{\k30}u{\k0}sic{\k80}
+Dialogue: 0,1:01:04.14,1:01:07.07,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k212}{\k0}Ki{\k0}zu{\k0}na {\k0}M{\k22}u{\k0}sic{\k59}
+Dialogue: 0,1:01:07.07,1:01:12.16,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k13}{\k37}ta{\k25}da {\k35}hi{\k20}ta{\k27}mu{\k35}ki {\k43}ni {\k34}o{\k32}i{\k31}ka{\k63}ke{\k35}te {\k15}i{\k64}ta
+Dialogue: 0,1:01:12.16,1:01:15.48,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k15}{\k32}mu{\k29}ne {\k49}no {\k16}o{\k47}ku {\k19}no {\k45}o{\k18}mo{\k62}i
+Dialogue: 0,1:01:15.64,1:01:20.14,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k14}{\k17}ki{\k21}zu{\k26}i{\k21}ta{\k132}ra{\k31} {\k0}mi{\k0}n{\k0}na {\k0}de {\k21}chi{\k19}zu {\k14}wo {\k33}hi{\k47}ro{\k15}ge{\k39}te
+Dialogue: 0,1:01:15.64,1:01:20.14,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k145}{\k0}ki{\k0}zu{\k0}i{\k0}ta{\k0}ra {\k33}mi{\k27}n{\k20}na {\k91}de {\k0}chi{\k0}zu wo hi{\k0}ro{\k0}ge{\k0}te{\k134}
+Dialogue: 0,1:01:20.14,1:01:24.59,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k11}{\k15}ki{\k17}bo{\k30}u {\k18}no {\k28}mi{\k20}chi {\k56}wo {\k34}ji{\k32}gu{\k31}za{\k33}gu {\k17}su{\k33}su{\k33}mo{\k37}u
+Dialogue: 0,1:01:24.59,1:01:27.41,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k9}{\k29}Ki{\k37}zu{\k32}na {\k63}Mu{\k46}{\k66}sic
+Dialogue: 0,1:01:24.59,1:01:27.41,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k170}{\k0}Ki{\k0}zu{\k0}na {\k0}M{\k29}u{\k0}sic{\k83}
+Dialogue: 0,1:01:24.59,1:01:27.41,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k199}{\k0}Ki{\k0}zu{\k0}na {\k0}M{\k17}u{\k0}sic{\k66}
+Dialogue: 0,1:01:27.41,1:01:29.64,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k14}{\k31}da{\k31}i{\k29}su{\k23}ki {\k29}na {\k31}u{\k35}ta
+Dialogue: 0,1:01:29.64,1:01:32.48,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k11}{\k30}ya{\k32}ku{\k34}so{\k65}ku {\k34}no {\k14}u{\k64}ta
+Dialogue: 0,1:01:32.48,1:01:35.02,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k14}{\k34}e{\k33}i{\k33}e{\k15}n {\k29}no {\k30}u{\k66}ta
+Dialogue: 0,1:01:35.02,1:01:39.66,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k12}{\k29}to{\k22}do{\k15}ke{\k79}you {\k29}wa{\k42}ta{\k39}shi{\k34}ta{\k33}chi {\k30}i{\k18}tsu{\k30}da{\k31}t{\k21}te
+Dialogue: 0,1:01:39.66,1:01:44.22,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k17}{\k40}se{\k13}i{\k10}i{\k12}p{\k58}pai {\k34}Fo{\k32}re{\k63}ver {\k31}For {\k37}Drea{\k109}ming
+Dialogue: 0,1:01:44.22,1:01:48.60,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k14}{\k17}yu{\k18}me {\k29}no {\k15}mu{\k48}ko{\k21}u {\k276}e
+Dialogue: 0,1:01:55.77,1:02:00.72,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k0}{\k22}de{\k14}a{\k31}t{\k17}ta {\k28}to{\k32}ki {\k47}no {\k35}ko{\k33}to {\k30}o{\k35}bo{\k17}e{\k29}te {\k32}i{\k93}ru
+Dialogue: 0,1:02:00.72,1:02:05.53,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k15}{\k17}a{\k17}fu{\k32}re{\k22}da{\k23}su {\k33}o{\k48}mo{\k23}i {\k42}hi{\k28}bi{\k37}ki {\k18}a{\k28}u {\k29}yu{\k69}me
+Dialogue: 0,1:02:05.83,1:02:10.91,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k12}{\k16}ki{\k22}zu{\k26}i{\k23}ta{\k25}ra {\k30}ki{\k41}zu{\k39}tsu{\k31}i{\k31}te {\k33}ki{\k17}zu{\k33}tsu{\k30}ke{\k99}te
+Dialogue: 0,1:02:10.91,1:02:14.55,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k10}{\k17}ki{\k15}zu{\k64}na {\k18}ma{\k17}ta {\k15}fu{\k43}ka{\k28}ma{\k35}t{\k23}te{\k79}ta
+Dialogue: 0,1:02:14.71,1:02:21.06,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k15}{\k30}go{\k64}ni{\k62}n {\k48}da{\k50}ke {\k110}ga {\k18}shi{\k30}t{\k36}te{\k13}i{\k28}ru {\k19}ko{\k112}to
+Dialogue: 0,1:02:21.06,1:02:24.90,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k10}{\k18}ta{\k11}bu{\k90}n {\k27}su{\k19}gu {\k30}o{\k17}mo{\k44}i{\k17}da{\k101}su
+Dialogue: 0,1:02:24.90,1:02:30.55,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k11}{\k14}u{\k16}ta {\k33}ga {\k24}o{\k41}shi{\k17}e{\k139}te {\k124}ku{\k101}re{\k16}ru {\k29}yo
+Dialogue: 0,1:02:30.55,1:02:33.46,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k13}{\k29}Ki{\k39}zu{\k29}na {\k63}Mu{\k48}{\k70}sic
+Dialogue: 0,1:02:30.55,1:02:33.46,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k173}{\k0}Ki{\k0}zu{\k0}na {\k0}M{\k36}u{\k0}sic{\k82}
+Dialogue: 0,1:02:30.55,1:02:33.46,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k208}{\k0}Ki{\k0}zu{\k0}na {\k0}M{\k14}u{\k0}sic{\k69}
+Dialogue: 0,1:02:33.46,1:02:38.50,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k12}{\k33}a{\k29}no {\k23}ha{\k27}shi {\k29}wa{\k37}ta{\k42}ri {\k31}a{\k32}no {\k34}o{\k64}ka {\k30}wo {\k23}ko{\k58}e
+Dialogue: 0,1:02:38.50,1:02:41.82,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k8}{\k40}so{\k28}no {\k52}ka{\k16}be {\k45}wo {\k18}ko{\k45}e{\k17}ta{\k63}ra
+Dialogue: 0,1:02:41.82,1:02:44.57,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k30}{\k20}ki{\k15}mi {\k33}ga {\k13}i{\k164}ta {\k0}a{\k0}e{\k0}ta {\k0}ne
+Dialogue: 0,1:02:41.82,1:02:44.57,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k158}{\k0}ki{\k0}mi {\k0}ga {\k0}i{\k0}ta {\k35}a{\k29}e{\k21}ta {\k32}ne
+Dialogue: 0,1:02:44.57,1:02:46.32,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k0}{\k38}hyou{\k18}shi{\k33}ki {\k49}no {\k19}na{\k18}i
+Dialogue: 0,1:02:46.32,1:02:50.78,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k27}{\k19}ma{\k25}yo{\k21}i {\k15}no {\k28}mi{\k17}chi {\k59}mo {\k39}ki{\k29}mi {\k34}to {\k31}na{\k22}ra {\k22}i{\k37}ke{\k21}ru
+Dialogue: 0,1:02:50.78,1:02:53.81,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k22}{\k34}Ki{\k34}zu{\k31}na {\k62}Mu{\k49}{\k71}sic
+Dialogue: 0,1:02:50.78,1:02:53.81,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k183}{\k0}Ki{\k0}zu{\k0}na {\k0}M{\k36}u{\k0}sic{\k84}
+Dialogue: 0,1:02:50.78,1:02:53.81,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k218}{\k0}Ki{\k0}zu{\k0}na {\k0}M{\k14}u{\k0}sic{\k71}
+Dialogue: 0,1:02:53.81,1:02:55.79,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k10}{\k31}ta{\k23}i{\k38}se{\k22}tsu{\k28}na {\k31}u{\k15}ta
+Dialogue: 0,1:02:55.79,1:02:58.85,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k25}{\k39}se{\k28}i{\k41}shu{\k57}n {\k36}no {\k14}u{\k66}ta
+Dialogue: 0,1:02:58.85,1:03:01.17,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k11}{\k30}ha{\k36}ji{\k32}ma{\k15}ri {\k32}no {\k27}u{\k49}ta
+Dialogue: 0,1:03:01.17,1:03:06.04,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k27}{\k34}ka{\k22}na{\k18}de{\k74}you {\k42}na{\k40}n{\k31}do{\k31}de{\k37}mo {\k24}i{\k19}tsu{\k33}ma{\k33}de {\k22}mo
+Dialogue: 0,1:03:06.04,1:03:10.51,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k15}{\k32}se{\k20}i{\k13}i{\k7}p{\k62}pai {\k33}Fo{\k33}re{\k60}ver {\k32}For {\k35}Drea{\k105}ming
+Dialogue: 0,1:03:10.51,1:03:14.68,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k19}{\k18}u{\k19}ta {\k22}wo {\k26}shi{\k41}n{\k27}ji{\k245}ru
+Dialogue: 0,1:03:55.27,1:04:02.66,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k21}{\k93}i{\k21}tsu{\k45}ka {\k35}o{\k33}mo{\k31}i{\k91}de {\k16}ni {\k17}ka{\k34}wa{\k11}t{\k50}ta {\k19}to{\k222}ki
+Dialogue: 0,1:04:02.66,1:04:07.40,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k12}{\k17}ko{\k15}no {\k93}u{\k20}ta {\k14}wo {\k30}ki{\k18}i{\k29}ta{\k36}na{\k16}ra {\k45}do{\k17}n{\k112}na
+Dialogue: 0,1:04:07.40,1:04:09.99,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k15}{\k16}ko{\k16}to {\k16}wo {\k17}ka{\k30}n{\k19}ji{\k43}ru {\k17}ka {\k70}na
+Dialogue: 0,1:04:09.99,1:04:12.41,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k9}{\k17}i{\k15}to{\k15}shi{\k17}ku{\k30}te {\k18}ya{\k38}sa{\k28}shi{\k55}ku
+Dialogue: 0,1:04:12.41,1:04:16.59,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k21}{\k20}u{\k23}re{\k52}shi{\k17}ku{\k27}te {\k33}se{\k51}tsu{\k25}na{\k55}ka{\k17}t{\k77}ta
+Dialogue: 0,1:04:16.59,1:04:23.50,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k16}{\k17}o{\k18}mo{\k25}i {\k20}su{\k30}be{\k45}te {\k125}da{\k130}ki{\k131}shi{\k134}me
+Dialogue: 0,1:04:23.50,1:04:26.43,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k16}{\k33}Ki{\k38}zu{\k26}na {\k71}Mu{\k44}{\k65}sic
+Dialogue: 0,1:04:23.50,1:04:26.43,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k184}{\k0}Ki{\k0}zu{\k0}na {\k0}M{\k30}u{\k0}sic{\k79}
+Dialogue: 0,1:04:23.50,1:04:26.43,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k214}{\k0}Ki{\k0}zu{\k0}na {\k0}M{\k14}u{\k0}sic{\k65}
+Dialogue: 0,1:04:26.43,1:04:31.49,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k13}{\k35}ko{\k32}ko{\k30}ro {\k23}fu{\k31}ru{\k25}e{\k53}te {\k28}yu{\k32}u{\k31}ki {\k67}a{\k36}fu{\k13}re{\k57}te
+Dialogue: 0,1:04:31.49,1:04:35.07,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k17}{\k33}na{\k35}mi{\k44}da {\k17}ga {\k44}de {\k21}cha{\k39}i{\k26}so{\k82}u
+Dialogue: 0,1:04:35.07,1:04:37.56,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k11}{\k14}u{\k18}ta{\k30}o{\k15}u {\k161}yo {\k0}mi{\k0}n{\k0}na {\k0}de
+Dialogue: 0,1:04:35.07,1:04:37.56,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k139}{\k0}u{\k0}ta{\k0}o{\k0}u {\k0}yo {\k25}mi{\k35}n{\k20}na {\k30}de
+Dialogue: 0,1:04:37.56,1:04:39.31,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k13}{\k19}ko{\k15}e {\k14}ta{\k28}ka{\k49}ra{\k24}ka{\k13}ni
+Dialogue: 0,1:04:39.31,1:04:43.89,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k25}{\k18}a{\k16}shi{\k35}ta {\k16}no {\k30}u{\k16}ta {\k46}wo{\k16} {\k33}mi{\k31}ra{\k38}i {\k30}e {\k13}no {\k28}u{\k36}ta {\k31}wo
+Dialogue: 0,1:04:43.89,1:04:46.44,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k48}so{\k34}n{\k173}na
+Dialogue: 0,1:04:47.36,1:04:49.36,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k12}{\k71}Mu{\k47}{\k70}sic
+Dialogue: 0,1:04:47.36,1:04:49.36,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k84}{\k0}M{\k33}u{\k0}sic{\k83}
+Dialogue: 0,1:04:47.36,1:04:49.36,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k115}{\k0}M{\k13}u{\k0}sic{\k72}
+Dialogue: 0,1:04:49.36,1:04:51.45,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k10}{\k31}da{\k25}i{\k36}su{\k20}ki {\k34}na {\k26}u{\k27}ta
+Dialogue: 0,1:04:51.45,1:04:54.28,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k22}{\k31}ya{\k31}ku{\k30}so{\k68}ku {\k32}no {\k14}u{\k55}ta
+Dialogue: 0,1:04:54.28,1:04:56.98,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k25}{\k36}e{\k26}i{\k35}e{\k14}n {\k31}no {\k33}u{\k70}ta
+Dialogue: 0,1:04:56.98,1:05:01.59,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k7}{\k24}to{\k27}do{\k20}ke{\k74}you {\k32}wa{\k42}ta{\k37}shi{\k28}ta{\k33}chi {\k32}i{\k21}tsu{\k32}da{\k23}t{\k29}te
+Dialogue: 0,1:05:01.59,1:05:05.52,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k16}{\k36}se{\k21}i{\k7}i{\k7}p{\k58}pai {\k36}Fo{\k35}re{\k54}ver {\k39}For {\k30}Drea{\k54}ming
+Dialogue: 0,1:05:05.52,1:05:07.92,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k11}{\k33}ki{\k30}mi {\k36}to {\k29}i{\k21}s{\k44}sho{\k18}da{\k18}yo
+Dialogue: 0,1:05:07.92,1:05:11.15,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k24}{\k33}Fo{\k31}re{\k60}ver {\k33}For {\k37}Drea{\k105}ming
+Dialogue: 0,1:05:11.15,1:05:15.80,POPIPA - Kizuna Music - Romaji,,0,0,0,,{\k16}{\k19}ki{\k22}mi {\k21}wo {\k25}shi{\k43}n{\k24}ji{\k295}ru
+Comment: 0,0:00:00.00,0:00:00.00,POPIPA - Kizuna Music - Romaji,,0,0,0,,
+Dialogue: 0,1:00:29.33,1:00:34.36,POPIPA - Kizuna Music - Trad,two,0,0,0,,De joyeuses voix s'élèvent
+Dialogue: 0,1:00:29.33,1:00:34.36,POPIPA - Kizuna Music - Trad,,0,0,0,,à travers la fenêtre de classe,
+Dialogue: 0,1:00:34.36,1:00:39.53,POPIPA - Kizuna Music - Trad,two,0,0,0,,Éclairée sous les feuillages
+Dialogue: 0,1:00:34.36,1:00:39.53,POPIPA - Kizuna Music - Trad,,0,0,0,,par les rayons de soleil qui passent.
+Dialogue: 0,1:00:39.53,1:00:44.41,POPIPA - Kizuna Music - Trad,,0,0,0,,À cet endroit qui chaque jour était si singulier
+Dialogue: 0,1:00:44.52,1:00:48.24,POPIPA - Kizuna Music - Trad,,0,0,0,,Tout le monde s'était réuni comme à l'accoutumée.
+Dialogue: 0,1:00:48.24,1:00:54.58,POPIPA - Kizuna Music - Trad,,0,0,0,,Le fait qu'on soit toutes ensemble
+Dialogue: 0,1:00:54.58,1:00:58.51,POPIPA - Kizuna Music - Trad,,0,0,0,,N'est probablement pas une coïncidence.
+Dialogue: 0,1:00:58.51,1:01:04.14,POPIPA - Kizuna Music - Trad,,0,0,0,,Car lorsque nos sons se rassemblent…
+Dialogue: 0,1:01:07.07,1:01:12.16,POPIPA - Kizuna Music - Trad,,0,0,0,,C'était ce qu'on recherchait avec tant d'ardeur !
+Dialogue: 0,1:01:12.16,1:01:15.48,POPIPA - Kizuna Music - Trad,,0,0,0,,C'est après avoir écouté notre cœur,
+Dialogue: 0,1:01:15.64,1:01:20.14,POPIPA - Kizuna Music - Trad,two,0,0,0,,Après l'avoir exploré en profondeur,
+Dialogue: 0,1:01:15.64,1:01:20.14,POPIPA - Kizuna Music - Trad,,0,0,0,,qu'un plan fut mis en œuvre !
+Dialogue: 0,1:01:20.14,1:01:24.59,POPIPA - Kizuna Music - Trad,two,0,0,0,,Pour être heureuses,
+Dialogue: 0,1:01:20.14,1:01:24.59,POPIPA - Kizuna Music - Trad,,0,0,0,,on s'est lancées sur cette route tortueuse !
+Dialogue: 0,1:01:27.41,1:01:29.64,POPIPA - Kizuna Music - Trad,,0,0,0,,Un chant favori,
+Dialogue: 0,1:01:29.64,1:01:32.48,POPIPA - Kizuna Music - Trad,,0,0,0,,Un chant promis,
+Dialogue: 0,1:01:32.48,1:01:35.02,POPIPA - Kizuna Music - Trad,,0,0,0,,Un chant infini !
+Dialogue: 0,1:01:35.02,1:01:39.66,POPIPA - Kizuna Music - Trad,,0,0,0,,On cherche constamment à y arriver
+Dialogue: 0,1:01:39.66,1:01:44.22,POPIPA - Kizuna Music - Trad,,0,0,0,,Par tous les moyens... Forever for dreaming!
+Dialogue: 0,1:01:44.22,1:01:48.60,POPIPA - Kizuna Music - Trad,,0,0,0,,À trouver l'espoir de l'autre côté...
+Dialogue: 0,1:01:55.77,1:02:00.72,POPIPA - Kizuna Music - Trad,two,0,0,0,,Est-ce que tu te souviens
+Dialogue: 0,1:01:55.77,1:02:00.72,POPIPA - Kizuna Music - Trad,,0,0,0,,du jour où je t'ai rencontrée ?
+Dialogue: 0,1:02:00.72,1:02:05.53,POPIPA - Kizuna Music - Trad,two,0,0,0,,Tant d'émotions nous submergeaient,
+Dialogue: 0,1:02:00.72,1:02:05.53,POPIPA - Kizuna Music - Trad,,0,0,0,,au loin, nos rêves retentissaient...
+Dialogue: 0,1:02:05.83,1:02:10.91,POPIPA - Kizuna Music - Trad,two,0,0,0,,Mais un jour, des blessures ont émergé
+Dialogue: 0,1:02:05.83,1:02:10.91,POPIPA - Kizuna Music - Trad,,0,0,0,,dans le plus grand secret...
+Dialogue: 0,1:02:10.91,1:02:14.55,POPIPA - Kizuna Music - Trad,,0,0,0,,Et notre amitié n'a fait que se renforcer.
+Dialogue: 0,1:02:14.71,1:02:21.06,POPIPA - Kizuna Music - Trad,,0,0,0,,Même si nul ne le sait, en dehors de nous cinq...
+Dialogue: 0,1:02:21.06,1:02:24.90,POPIPA - Kizuna Music - Trad,,0,0,0,,Je serai là pour te le rappeler,
+Dialogue: 0,1:02:24.90,1:02:30.55,POPIPA - Kizuna Music - Trad,two,0,0,0,,Grâce à toi, cette chanson
+Dialogue: 0,1:02:24.90,1:02:30.55,POPIPA - Kizuna Music - Trad,,0,0,0,,fait aujourd'hui partie de moi !
+Dialogue: 0,1:02:33.46,1:02:38.50,POPIPA - Kizuna Music - Trad,,0,0,0,,Après ce pont et par-delà ces monts,
+Dialogue: 0,1:02:38.50,1:02:41.82,POPIPA - Kizuna Music - Trad,,0,0,0,,Il suffit de franchir ce mur !
+Dialogue: 0,1:02:41.82,1:02:44.57,POPIPA - Kizuna Music - Trad,two,0,0,0,,C'est là que je t'ai trouvée !
+Dialogue: 0,1:02:41.82,1:02:44.57,POPIPA - Kizuna Music - Trad,,0,0,0,,Que je t'ai rencontrée...
+Dialogue: 0,1:02:44.57,1:02:46.32,POPIPA - Kizuna Music - Trad,,0,0,0,,D'un coup, c'est tombé !
+Dialogue: 0,1:02:46.32,1:02:50.78,POPIPA - Kizuna Music - Trad,,0,0,0,,Avec toi à mes côtés, le doute n'a plus lieu d'exister !
+Dialogue: 0,1:02:53.81,1:02:55.79,POPIPA - Kizuna Music - Trad,,0,0,0,,Un chant de valeur,
+Dialogue: 0,1:02:55.79,1:02:58.85,POPIPA - Kizuna Music - Trad,,0,0,0,,Un chant de verdeur,
+Dialogue: 0,1:02:58.85,1:03:01.17,POPIPA - Kizuna Music - Trad,,0,0,0,,Un chant de la première heure !
+Dialogue: 0,1:03:01.17,1:03:06.04,POPIPA - Kizuna Music - Trad,,0,0,0,,En musique ! Jouons, sans jamais perdre le rythme...
+Dialogue: 0,1:03:06.04,1:03:10.51,POPIPA - Kizuna Music - Trad,,0,0,0,,Toutes en chœur ! Forever for dreaming!
+Dialogue: 0,1:03:10.51,1:03:14.68,POPIPA - Kizuna Music - Trad,,0,0,0,,Gardons foi en ses paroles.
+Dialogue: 0,1:03:55.27,1:04:02.66,POPIPA - Kizuna Music - Trad,two,0,0,0,,Quand ce refrain ne sera plus
+Dialogue: 0,1:03:55.27,1:04:02.66,POPIPA - Kizuna Music - Trad,,0,0,0,,qu'un souvenir lointain,
+Dialogue: 0,1:04:02.66,1:04:07.40,POPIPA - Kizuna Music - Trad,two,0,0,0,,Quelles émotions, je me demande,
+Dialogue: 0,1:04:02.66,1:04:07.40,POPIPA - Kizuna Music - Trad,,0,0,0,,provoqueraient ces notes
+Dialogue: 0,1:04:07.40,1:04:09.99,POPIPA - Kizuna Music - Trad,,0,0,0,,Tout droit venues d'une autre époque ?
+Dialogue: 0,1:04:09.99,1:04:12.41,POPIPA - Kizuna Music - Trad,,0,0,0,,Allons-y en douceur, comme une âme sœur...
+Dialogue: 0,1:04:12.41,1:04:16.59,POPIPA - Kizuna Music - Trad,,0,0,0,,Qu'il s'agisse de bonheur ou même de douleur...
+Dialogue: 0,1:04:16.59,1:04:23.50,POPIPA - Kizuna Music - Trad,,0,0,0,,Sans peur, je les accepterai avec ferveur !
+Dialogue: 0,1:04:26.43,1:04:31.49,POPIPA - Kizuna Music - Trad,two,0,0,0,,Mon âme tremble d'excitation,
+Dialogue: 0,1:04:26.43,1:04:31.49,POPIPA - Kizuna Music - Trad,,0,0,0,,le courage y coule à foison !
+Dialogue: 0,1:04:31.49,1:04:35.07,POPIPA - Kizuna Music - Trad,,0,0,0,,Même au bord des sanglots,
+Dialogue: 0,1:04:35.07,1:04:37.56,POPIPA - Kizuna Music - Trad,,0,0,0,,Je chanterai, avec vous toutes,
+Dialogue: 0,1:04:37.56,1:04:39.31,POPIPA - Kizuna Music - Trad,,0,0,0,,Je jouerai ce morceau !
+Dialogue: 0,1:04:39.31,1:04:43.89,POPIPA - Kizuna Music - Trad,,0,0,0,,Il guidera nos lendemains, il guidera notre destin !
+Dialogue: 0,1:04:43.89,1:04:46.44,POPIPA - Kizuna Music - Trad,,0,0,0,,Oui, c'est notre...
+Dialogue: 0,1:04:47.36,1:04:49.36,POPIPA - Kizuna Music - Trad,,0,0,0,,Musique !
+Dialogue: 0,1:04:49.36,1:04:51.45,POPIPA - Kizuna Music - Trad,,0,0,0,,Un chant favori,
+Dialogue: 0,1:04:51.45,1:04:54.28,POPIPA - Kizuna Music - Trad,,0,0,0,,Un chant promis,
+Dialogue: 0,1:04:54.28,1:04:56.98,POPIPA - Kizuna Music - Trad,,0,0,0,,Un chant infini !
+Dialogue: 0,1:04:56.98,1:05:01.59,POPIPA - Kizuna Music - Trad,,0,0,0,,On cherche constamment à y arriver
+Dialogue: 0,1:05:01.59,1:05:05.52,POPIPA - Kizuna Music - Trad,,0,0,0,,Par tous les moyens... Forever for dreaming!
+Dialogue: 0,1:05:05.52,1:05:07.92,POPIPA - Kizuna Music - Trad,,0,0,0,,En restant à tes côtés.
+Dialogue: 0,1:05:11.15,1:05:15.80,POPIPA - Kizuna Music - Trad,,0,0,0,,Car j'ai toujours foi en toi.
+Comment: 0,0:00:00.00,0:00:00.00,POPIPA - Kizuna Music - Trad,,0,0,0,,

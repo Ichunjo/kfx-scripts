@@ -1,0 +1,1 @@
+https://ddl.kodoku-no-kawarini.moe/Karaok%C3%A9/%5BKnK%5D%20Houseki%20no%20Kuni%20Opening%20-%20Kyoumen%20no%20Nami%20%28%E9%8F%A1%E9%9D%A2%E3%81%AE%E6%B3%A2%29.mp4

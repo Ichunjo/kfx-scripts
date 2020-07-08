@@ -7,7 +7,6 @@ luac.out
 *.tar.gz
 
 # Object files
-*.o
 *.os
 *.ko
 *.obj
@@ -21,7 +20,6 @@ luac.out
 *.lib
 *.a
 *.la
-*.lo
 *.def
 *.exp
 

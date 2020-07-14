@@ -137,19 +137,16 @@ def roumaji(io: Ass, line: Line, l: Line, ms_from_frame: float) -> None:
 
     speed = 250 / 10000  # pixels / ms
     distance = dur * speed
-    left, right = line.left - distance/2 - line.width / \
-        4, line.right + distance/2 + line.width/4
+    left, right = line.left - distance/2 - line.width / 4, line.right + distance/2 + line.width/4
     top, bottom = line.top - 50, line.bottom + 50
 
     # Box
-    color_base, timing = _swap_color_box(
-        line, line.styleref.color3, BLACK_COLOR, 0)
+    color_base, timing = _swap_color_box(line, line.styleref.color3, BLACK_COLOR, 0)
     l.style = line.style + ' Box'
     l.text = '{\\an5\\move(%.3f,%.3f,%.3f,%.3f,%.3f,%.3f)\\blur1\\1a&HFF&%s' \
         '\\clip(%.3f,%.3f,%.3f,%.3f)\\t(0,%d,\\clip(%.3f,%.3f,%.3f,%.3f))' \
         '\\t(%d,%d,\\clip(%.3f,%.3f,%.3f,%.3f))\\t(%d,%d,\\clip(%.3f,%.3f,%.3f,%.3f))}%s' % (
-            line.center + distance/2, line.middle, line.center -
-            distance/2, line.middle, 0, dur,
+            line.center + distance/2, line.middle, line.center - distance/2, line.middle, 0, dur,
             _varde_color_swap(timing, color_base, -leadin, 3),
             left, bottom, left, bottom, leadin, left, top, right, bottom,
             leadin, leadin, left - distance, top, right + distance, bottom,
@@ -159,8 +156,7 @@ def roumaji(io: Ass, line: Line, l: Line, ms_from_frame: float) -> None:
 
     l.style = line.style
     # Inline
-    color_base, timing = _swap_color_inline(
-        line, line.styleref.color1, "&HC3C0B8&", 0)
+    color_base, timing = _swap_color_inline(line, line.styleref.color1, "&HC3C0B8&", 0)
     for syl in Utils.all_non_empty(line.syls):
         l.start_time = line.start_time - leadin
         l.end_time = line.end_time
@@ -230,8 +226,7 @@ def sub(io: Ass, line: Line, l: Line, nb_rom_l: int) -> None:
 
     speed = 250 / 10000  # pixels / ms
     distance = dur * speed
-    left, right = line.left - distance/2 - line.width / \
-        4, line.right + distance/2 + line.width/4
+    left, right = line.left - distance/2 - line.width / 4, line.right + distance/2 + line.width/4
     top, bottom = line.top - 50, line.bottom + 50
 
     # Box
@@ -240,8 +235,7 @@ def sub(io: Ass, line: Line, l: Line, nb_rom_l: int) -> None:
     l.text = '{\\an5\\move(%.3f,%.3f,%.3f,%.3f,%.3f,%.3f)\\blur1\\1a&HFF&%s' \
         '\\clip(%.3f,%.3f,%.3f,%.3f)\\t(0,%d,\\clip(%.3f,%.3f,%.3f,%.3f))' \
         '\\t(%d,%d,\\clip(%.3f,%.3f,%.3f,%.3f))\\t(%d,%d,\\clip(%.3f,%.3f,%.3f,%.3f))}%s' % (
-            line.center - distance/2, line.middle, line.center +
-            distance/2, line.middle, 0, dur,
+            line.center - distance/2, line.middle, line.center + distance/2, line.middle, 0, dur,
             _varde_color_swap(timing, color_base, -leadin, 3),
             right, bottom, right, bottom, leadin, left, top, right, bottom,
             leadin, leadin, left - distance, top, right + distance, bottom,
@@ -261,8 +255,7 @@ def sub(io: Ass, line: Line, l: Line, nb_rom_l: int) -> None:
     l.text = '{\\an5\\move(%.3f,%.3f,%.3f,%.3f,%.3f,%.3f)\\blur1%s' \
         '\\clip(%.3f,%.3f,%.3f,%.3f)\\t(0,%d,\\clip(%.3f,%.3f,%.3f,%.3f))' \
         '\\t(%d,%d,\\clip(%.3f,%.3f,%.3f,%.3f))\\t(%d,%d,\\clip(%.3f,%.3f,%.3f,%.3f))}%s' % (
-            line.center - distance/2, line.middle, line.center +
-            distance/2, line.middle, 0, dur,
+            line.center - distance/2, line.middle, line.center + distance/2, line.middle, 0, dur,
             _varde_color_swap(timing, color_base, -leadin, 1),
             right, bottom, right, bottom, leadin, left, top, right, bottom,
             leadin, leadin, left - distance, top, right + distance, bottom,
